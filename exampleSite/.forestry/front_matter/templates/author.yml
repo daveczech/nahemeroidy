@@ -5,6 +5,7 @@ fields:
 - type: text
   name: title
   label: title
+  description: "<strong>Hi, I’m John Smith aaaa</strong>"
 - type: text
   name: description
   label: description
