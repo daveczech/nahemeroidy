@@ -26,7 +26,7 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-copyright = "&copy; 2020 [NaHemeroidy.cu](https://www.nahemeroidy.cz/) Všechna práva vyhrazena"
+copyright = "&copy; 2020 [NaHemeroidy.cz](https://www.nahemeroidy.cz/) Všechna práva vyhrazena"
 description = "This is meta description"
 google_analitycs_id = ""
 google_tag_manager = ""
