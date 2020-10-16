@@ -35,7 +35,7 @@ logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Trápí vás hemeroidy? < /br> S námi najdete řešení, které vás jich zbaví"
+title = "Trápí vás hemeroidy? &nbsp;&nbsp; S námi najdete řešení, které vás jich zbaví"
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = true
