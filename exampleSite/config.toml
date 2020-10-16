@@ -40,7 +40,7 @@ title = "Trápí vás hemeroidy? <br> S námi najdete řešení, které vás jic
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = true
 image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
+title = "Všechno pěkně pohromadě"
 [params.cta.button]
 enable = true
 label = "Visit Here"
