@@ -30,7 +30,9 @@ fields:
   template_types:
   - post
   config:
-    min: 2
-    max: 3
+    min: 
+    max: 
+  hidden: false
+  description: dssdfsdf
 pages:
 - exampleSite/content/test.md
