@@ -27,9 +27,10 @@ fields:
 - name: bloky
   type: blocks
   label: bloky
-  template_types: []
+  template_types:
+  - post
   config:
-    min: 
-    max: 
+    min: 2
+    max: 3
 pages:
 - exampleSite/content/test.md
