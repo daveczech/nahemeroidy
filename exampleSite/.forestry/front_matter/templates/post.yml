@@ -24,5 +24,12 @@ fields:
   name: type
   label: type
   default: post
+- name: bloky
+  type: blocks
+  label: bloky
+  template_types: []
+  config:
+    min: 
+    max: 
 pages:
 - exampleSite/content/test.md
