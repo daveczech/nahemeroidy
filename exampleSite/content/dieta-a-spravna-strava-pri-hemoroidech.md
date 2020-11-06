@@ -20,13 +20,13 @@ Možná vás to překvapí, ale **správně zvolený jídelníček** potřebují
 
 ![dieta při hemeroidech](/images/strava-pri-hemeroidech.jpg)
 
-# **Jak pomůže upravená strava**
+## Jak pomůže upravená strava
 
 U hemoroidů je důležité, **abyste nemuseli vyvíjet příliš velký tlak během vykonávání velké potřeby**. Také je ale klíčové, abyste netrpěli průjmem, nebo zácpou. Jak to ale udělat?
 
 Úplně jednoduše. Do svého jídelníčku zařaďte dostatečné množství **čerstvého ovoce**, **zeleniny** a dalších potravin, které obsahují **vlákninu**. Ta funguje tak, že zvětší objem stolice a zároveň ji změkčí. Čímž zamezuje tomu, že nejde snadno vytlačit. Aby ale mohla správně fungovat, neobejde se bez **tekutin**. (Jinak může v extrémních případech zácpu ještě zhoršit.) Z toho důvodu si každodenně dopřejte optimální množství vody, čaje nebo přírodních šťáv.
 
-## **Povolené potraviny**
+### Povolené potraviny
 
 Jak už bylo řečeno, váš jídelníček by měl překypovat potravinami, které jsou bohaté na vlákninu.
 
@@ -44,7 +44,7 @@ Jak už bylo řečeno, váš jídelníček by měl překypovat potravinami, kter
 
 ![strava při hemoroidech](/images/povolene-potraviny-hemoroidy.jpg)
 
-## **Zakázané potraviny**
+### Zakázané potraviny
 
 Bohužel, většinou saháme po potravinách, které nám vůbec nedělají dobře. Jak po stránce váhy, tak po té zdravotní.
 
@@ -57,7 +57,7 @@ Bohužel, většinou saháme po potravinách, které nám vůbec nedělají dob�
 
 Jen výjimečně si dopřávejte i hodně **ostrá jídla**, **nápoje obsahující kofein** a **alkohol**.
 
-### **Dieta při hemoroidech - vzorový jídelníček**
+## Dieta při hemoroidech - vzorový jídelníček
 
 **Snídaně:** Ovesné vločky s kefírem, lesním ovocem a ořechy, čaj
 
@@ -71,7 +71,7 @@ Jen výjimečně si dopřávejte i hodně **ostrá jídla**, **nápoje obsahují
 
 ![hemeroidy jídelníček](/images/hemeroidy-jidelnicek.jpg)
 
-# **Pomohou bylinky?**
+## **Pomohou bylinky?**
 
 Co se týče domácí léčby, řada lidí se spoléhá na přírodní metody. Ty v řadě případů zahrnují i použití bylinek. U hemoroidů to ale až tak úplně neplatí. (Zaprvé se nedají jen tak vyléčit, jen odstranit. A zadruhé nemáme informace o tom, že by existovaly bylinky, které by měly na jejich vyléčení vliv.)
 
