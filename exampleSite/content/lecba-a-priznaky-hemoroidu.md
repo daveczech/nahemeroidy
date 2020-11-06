@@ -4,7 +4,6 @@ bloky = []
 categories = []
 date = 2020-11-05T23:00:00Z
 description = "Nikdo z nás se na veřejnosti nechlubí tím, že ho trápí hemoroidy. Skrývat je ale může být pekelně složité. Víte, jak na léčbu hemoroidů?"
-draft = true
 image = "/images/lecba-hemoroidu.jpg"
 title = "Léčba a příznaky hemeroidů"
 type = "post"
