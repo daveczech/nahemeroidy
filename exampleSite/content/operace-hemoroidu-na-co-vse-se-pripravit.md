@@ -4,7 +4,6 @@ bloky = []
 categories = []
 date = 2020-11-05T23:00:00Z
 description = "Nikdo z nás nechodí rád na operace. Někdy je to jediná cesta, jak se zbavit obtíží. Například těch, které způsobují hemoroidy. Víte, jak probíhá operace hemeroidů?"
-draft = true
 image = "/images/operace-hemeroidu.jpg"
 title = "Operace hemoroidů: Na co vše se připravit?"
 type = "post"
