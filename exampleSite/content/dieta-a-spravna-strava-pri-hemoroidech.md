@@ -4,7 +4,6 @@ bloky = []
 categories = []
 date = 2020-11-05T23:00:00Z
 description = "Hemoroidy jsou zdravotní problém, na který je nutné se dívat co nejvíce komplexně. Proto se podíváme na to, jak se při hemoroidech správně stravovat."
-draft = true
 image = "/images/dieta-pri-hemoroidech.jpg"
 title = "Dieta a správná strava při hemeroidech"
 type = "post"

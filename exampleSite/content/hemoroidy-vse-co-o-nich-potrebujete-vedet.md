@@ -4,7 +4,6 @@ bloky = []
 categories = ["Hemoroidy"]
 date = 2020-11-05T23:00:00Z
 description = "Celé dny stojíme, nebo sedíme a jíme spoustu nezdravých potravin. To jsou podmínky, které otevírají dveře civilizačním nemocem, mezi které patří i hemoroidy"
-draft = true
 image = "/images/co-vedet-o-hemoroidech.jpg"
 title = "Hemeroidy: Vše, co o nich potřebujete vědět"
 type = "post"
