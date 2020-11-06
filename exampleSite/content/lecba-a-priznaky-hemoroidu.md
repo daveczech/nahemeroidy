@@ -9,7 +9,7 @@ title = "Léčba a příznaky hemeroidů"
 type = "post"
 [menu.main]
 name = "Léčba hemeroidů"
-weight = 5
+weight = 3
 
 +++
 **Nikdo z nás se na veřejnosti nechlubí tím, že ho trápí hemoroidy. Skrývat je ale může být pekelně složité. Zvlášť proto, že svému majiteli způsobují extrémní nepohodlí. Z toho důvodu byste měli přemýšlet o tom, jak je začnete řešit. Víte, jaké máte možnosti?**
