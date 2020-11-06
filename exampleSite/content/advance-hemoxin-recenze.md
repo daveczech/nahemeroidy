@@ -1,7 +1,7 @@
 +++
 author = ""
 bloky = []
-categories = []
+categories = ["Recenze produktů"]
 date = 2020-11-05T23:00:00Z
 description = "Existují doplňky stravy, které pomáhají zmírňovat potíže s hemoroidy. Je správnou volbou Advance Hemoxin? Přečtěte si naši recenzi na Advance Hemoxin."
 image = "/images/hemoxin-recenze.jpg"
