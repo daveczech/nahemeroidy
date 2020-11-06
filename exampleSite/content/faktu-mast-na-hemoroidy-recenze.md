@@ -4,7 +4,6 @@ bloky = []
 categories = []
 date = 2020-11-05T23:00:00Z
 description = "Pokud hledáte rychlou úlevu od hemoroidů, mohly by vám vyhovovat mastičky. Vyplatí se investovat do mastičky Faktu? Přečtěte si naši recenzi"
-draft = true
 image = "/images/faktu-mast-recenze.jpg"
 title = "Faktu - mast na hemeroidy: Recenze"
 type = "post"
