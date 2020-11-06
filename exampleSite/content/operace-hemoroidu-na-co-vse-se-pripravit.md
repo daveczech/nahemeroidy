@@ -1,7 +1,7 @@
 +++
 author = ""
 bloky = []
-categories = []
+categories = ["Hemeroidy"]
 date = 2020-11-05T23:00:00Z
 description = "Nikdo z nás nechodí rád na operace. Někdy je to jediná cesta, jak se zbavit obtíží. Například těch, které způsobují hemoroidy. Víte, jak probíhá operace hemeroidů?"
 image = "/images/operace-hemeroidu.jpg"
