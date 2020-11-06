@@ -1,7 +1,7 @@
 +++
 author = ""
 bloky = []
-categories = []
+categories = ["Recenze produktů"]
 date = 2020-11-05T23:00:00Z
 description = "Pokud hledáte rychlou úlevu od hemoroidů, mohly by vám vyhovovat mastičky. Vyplatí se investovat do mastičky Faktu? Přečtěte si naši recenzi"
 image = "/images/faktu-mast-recenze.jpg"
