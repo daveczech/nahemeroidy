@@ -18,7 +18,7 @@ Možná vás to překvapí, ale **správně zvolený jídelníček** potřebují
 
 > **_Abyste měli trochu lepší představu o tom, čemu byste měli začít dávat přednost a čemu se raději vyhýbat, budeme rádi, když budete pokračovat ve čtení._**
 
-![](/images/strava-pri-hemeroidech.jpg)
+![dieta při hemeroidech](/images/strava-pri-hemeroidech.jpg)
 
 # **Jak pomůže upravená strava**
 
@@ -42,7 +42,7 @@ Jak už bylo řečeno, váš jídelníček by měl překypovat potravinami, kter
 * Jablka
 * Banány
 
-![](/images/povolene-potraviny-hemoroidy.jpg)
+![strava při hemoroidech](/images/povolene-potraviny-hemoroidy.jpg)
 
 ## **Zakázané potraviny**
 
@@ -69,11 +69,10 @@ Jen výjimečně si dopřávejte i hodně **ostrá jídla**, **nápoje obsahují
 
 **Večeře:** Kuřecí prso na přírodní způsob, rýže, zeleninový salát, čaj
 
-![](/images/hemeroidy-jidelnicek.jpg)
+![hemeroidy jídelníček](/images/hemeroidy-jidelnicek.jpg)
 
 # **Pomohou bylinky?**
 
 Co se týče domácí léčby, řada lidí se spoléhá na přírodní metody. Ty v řadě případů zahrnují i použití bylinek. U hemoroidů to ale až tak úplně neplatí. (Zaprvé se nedají jen tak vyléčit, jen odstranit. A zadruhé nemáme informace o tom, že by existovaly bylinky, které by měly na jejich vyléčení vliv.)
 
-  
 To ale neznamená, že musíte odejít úplně s prázdnou. Na podráždění vám může pomoci **čistý gel s aloe vera**. Ač neléčí hemoroidy, může přispět ke zklidnění problematické oblasti. Pacientům se často doporučuje i používání přípravků, které obsahují **vilín**. Naše babičky také nedaly dopustit na **jitrocel**, **heřmánek** a na **měsíček lékařský**.
