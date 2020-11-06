@@ -1,7 +1,7 @@
 +++
 author = ""
 bloky = []
-categories = []
+categories = ["Hemeroidy"]
 date = 2020-11-05T23:00:00Z
 description = "Těhotenství je období, během kterého dochází k mnoha psychickým, ale i fyzickým změnám. Víte, jak řešit hemeroidy v těhotenství?"
 image = "/images/hemeroidy-v-tehotenstvi.jpg"
