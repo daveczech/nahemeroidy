@@ -7,6 +7,9 @@ description = "Celé dny stojíme, nebo sedíme a jíme spoustu nezdravých potr
 image = "/images/co-vedet-o-hemoroidech.jpg"
 title = "Hemeroidy: Vše, co o nich potřebujete vědět"
 type = "post"
+[menu.main]
+name = "Vše o hemeroidech"
+weight = 3
 
 +++
 **Život moderního člověka se dost výrazně odlišuje od toho, který znali naši předkové. Oproti nim po celé dny stojíme, nebo sedíme, jíme spoustu nezdravých potravin a málo se hýbeme. Což jsou podmínky, které otevírají dveře civilizačním nemocem, mezi které patří i hemoroidy. Jelikož jde o poměrně rozšířený problém, mrkneme se na všechno, co o něm musíte vědět.**

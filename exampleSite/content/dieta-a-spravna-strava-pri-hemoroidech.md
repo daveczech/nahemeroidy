@@ -7,6 +7,9 @@ description = "Hemoroidy jsou zdravotní problém, na který je nutné se dívat
 image = "/images/dieta-pri-hemoroidech.jpg"
 title = "Dieta a správná strava při hemeroidech"
 type = "post"
+[menu.main]
+name = "Strava při hemeroidech"
+weight = 4
 
 +++
 **Hemoroidy jsou zdravotní problém, na který je nutné se dívat co nejvíce komplexně. Především proto, že jeho projevy mohou záviset na našem celkovém životním stylu. A ve velkém pak na tom, co pravidelně jíme. Proto se podíváme na to, jak se při hemoroidech správně stravovat.**
