@@ -64,7 +64,7 @@ V první řadě je nutné pochopit mechanismus toho, co se během tohoto jevu d�
 * Bolesti
 * Pozorování krevních sraženin
 
-V případě, že se vám něco podobného stane je důvod k tomu, abyste neprodleně kontaktovali svého ošetřujícího lékaře.
+V případě, že se vám něco podobného stane je důvod k tomu, abyste neprodleně kontaktovali svého [ošetřujícího lékaře](https://www.nahemeroidy.cz/lecba-a-priznaky-hemoroidu/).
 
 ![prasknutí hemoroidů](/images/prasknuti-hemoroidu.jpg)
 
@@ -79,7 +79,7 @@ K hemoroidům se člověk dopracuje mnoha různými způsoby. Z toho důvodu se 
 * Dlouhý pobyt na toaletě
 * Rodinnou anamnézu
 
-V rámci tohoto zdravotního problému existují i konkrétní ohrožené skupiny. Patří mezi ně například **těhotné ženy**, které mohou trpět na zácpy a které musí silně tlačit během porodu. Dalším rizikovým faktorem je **sedavé zaměstnání**, nebo **pokročilý věk**.
+V rámci tohoto zdravotního problému existují i konkrétní ohrožené skupiny. Patří mezi ně například [**těhotné ženy**](https://www.nahemeroidy.cz/proc-vznikaji-hemoroidy-tehotenstvi/), které mohou trpět na zácpy a které musí silně tlačit během porodu. Dalším rizikovým faktorem je **sedavé zaměstnání**, nebo **pokročilý věk**.
 
 ## Jak poznat hemoroidy
 
@@ -91,9 +91,9 @@ Pokud vám smíme radit, v každém případě se nechce vyšetřit vaším prak
 
 ## Řešení problémů
 
-Pokud se u vás hemoroidy vyskytly, je důležité vědět, jak s nimi správně pracovat. V první řadě musíte dbát na to, abyste se udržovali v dokonalé čistotě. Z toho důvodu si každý den dopřávejte **alespoň 10 minut sedacích koupelí v příjemně teplé (nikoliv vařící) vodě**. Také si můžete obstarat **volně prodejný přípravek proti hemoroidům**.
+Pokud se u vás hemoroidy vyskytly, je důležité vědět, jak s nimi správně pracovat. V první řadě musíte dbát na to, abyste se udržovali v dokonalé čistotě. Z toho důvodu si každý den dopřávejte **alespoň 10 minut** [**sedacích koupelí**](https://www.nahemeroidy.cz/sedaci-koupel-ucinna-pomoc-od-hemoroidu/) **v příjemně teplé (nikoliv vařící) vodě**. Také si můžete obstarat **volně prodejný** [**přípravek proti hemoroidům**](https://www.nahemeroidy.cz/advance-hemoxin-recenze/).
 
-Velkou roli ve zvládání hemeroidů hraje i **vyvážená strava**, která by měla být bohatá na vlákninu. (Je ale podmínkou, abyste dodržovali **dostatečný pitný režim**, jinak vám vláknina způsobí spíš zácpu.) Tímto způsobem by se měla změkčit a zpravidelnit stolice, kterou bude možné vytlačit bez použití extrémní námahy.
+Velkou roli ve zvládání hemeroidů [hraje i **vyvážená strava**](https://www.nahemeroidy.cz/dieta-a-spravna-strava-pri-hemoroidech/), která by měla být bohatá na vlákninu. (Je ale podmínkou, abyste dodržovali **dostatečný pitný režim**, jinak vám vláknina způsobí spíš zácpu.) Tímto způsobem by se měla změkčit a zpravidelnit stolice, kterou bude možné vytlačit bez použití extrémní námahy.
 
 **Také vyzkoušejte:**
 
@@ -101,6 +101,6 @@ Velkou roli ve zvládání hemeroidů hraje i **vyvážená strava**, která by 
 * Vlhčený toaletní papír (ty levnější a škrábavé mohou příliš dráždit, což není v této situaci žádoucí)
 * Studené obklady
 * Léky proti bolesti (ale ne ty, které mohou ředit krev, nebo které mohou způsobovat zácpu)
-* Operaci (jedná se ale až o úplně poslední možné řešení)
+* [Operaci](https://www.nahemeroidy.cz/operace-hemoroidu-na-co-vse-se-pripravit/) (jedná se ale až o úplně poslední možné řešení)
 
 Klíč ke zlepšení vašeho zdravotního stavu držíte pouze ve svých rukách.
