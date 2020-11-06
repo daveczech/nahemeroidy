@@ -6,7 +6,7 @@ date = 2020-11-05T23:00:00Z
 description = "Celé dny stojíme, nebo sedíme a jíme spoustu nezdravých potravin. To jsou podmínky, které otevírají dveře civilizačním nemocem, mezi které patří i hemoroidy"
 draft = true
 image = "/images/co-vedet-o-hemoroidech.jpg"
-title = "Hemoroidy: Vše, co o nich potřebujete vědět"
+title = "Hemeroidy: Vše, co o nich potřebujete vědět"
 type = "post"
 
 +++
@@ -14,13 +14,13 @@ type = "post"
 
 Možná si to ani neuvědomujete, ale většinu svého života trávíme v sedě, ve stoje, nebo poleháváním na gauči, či v posteli. Jen si to vezměte. Ráno se probudíme, rychle do sebe hodíme něco k jídlu, sedneme si do auta, nebo do prostředku hromadné dopravy (ve které většinou taktéž sedíme) a pak celý den sedíme u počítače, nebo za stolem. Případně si nesedneme, jak je den dlouhý.
 
-Kromě toho, že tím trpí naše končetiny, na kterých se může začít projevovat **žilní nedostatečnost**, otevíráme tím dveře vzniku hemoroidů.
+Kromě toho, že tím trpí naše končetiny, na kterých se může začít projevovat **žilní nedostatečnost**, otevíráme tím dveře vzniku hemeroidů.
 
 > **_Jelikož jde o velmi delikátní problém, o kterém se v dobré společnosti příliš nemluví, nabízíme vám detailního průvodce, ze kterého vyčtete vše potřebné._**
 
 ![co jsou to hemeroidy](/images/co-jsou-to-hemeroidy.jpg)
 
-## Co jsou to hemoroidy
+## Co jsou to hemeroidy
 
 Hemoroidy jsou **onemocnění žil**, které se nacházejí v namáhané oblasti okolo konečníku. Může jít o žíly uvnitř, ale i venku. (Z toho důvodu rozlišujeme, zda jedinec trpí **vnějšími hemoroidy**, nebo **vnitřními**.) Vnitřní postihují přímo konečník, vnější se soustřeďují okolo něj zvenčí.
 
@@ -28,7 +28,7 @@ Projevy hemoroidů jsou pro člověka velmi nepříjemné a mohou ovlivňovat kv
 
 ### Vnější hemoroidy
 
-Jak už bylo řečeno, vnější (nebo také externí) hemoroidy se nacházejí v těsné blízkosti análního otvoru. Nejsou vidět, protože **jsou pod kůží**.
+Jak už bylo řečeno, vnější (nebo také externí) hemeroidy se nacházejí v těsné blízkosti análního otvoru. Nejsou vidět, protože **jsou pod kůží**.
 
 **Mezi jejich příznaky patří:**
 
@@ -52,7 +52,7 @@ Vnitřní hemoroidy jsou ty, které se udělají **uvnitř análního otvoru**. 
 
 ## Prasknutí hemoroidu
 
-Jelikož se hemoroid dělá tak, že povolí stěna cévy, která **vytvoří vak naplněný krví**, může se stát, že hemoroid v nějaké fázi své existence praskne. Jak se to dá ale poznat a co se s tím dá dělat?
+Jelikož se hemoroid dělá tak, že povolí stěna cévy, která **vytvoří vak naplněný krví**, může se stát, že hemeroid v nějaké fázi své existence praskne. Jak se to dá ale poznat a co se s tím dá dělat?
 
 V první řadě je nutné pochopit mechanismus toho, co se během tohoto jevu děje. K prasknutí mají větší sklony vnější hemoroidy. Jak se v nich **nahromadí přebytek krve**, může se v nich udělat **krevní sraženina**. (Což je důvod, proč hemoroid na omak připomíná tvrdou bulku.) Ta může prorazit kůži a odtéct pryč.
 
@@ -81,7 +81,7 @@ V rámci tohoto zdravotního problému existují i konkrétní ohrožené skupin
 
 ## Jak poznat hemoroidy
 
-Jelikož je opakování matkou moudrosti, ještě jednou si připomeneme, jak se mohou hemoroidy projevit. Můžete pociťovat **bolest v okolí**, nebo **uvnitř análního otvoru**, která vám znemožní v klidu stát, nebo sedět. Také můžete pociťovat neobvyklé **svědění**. Výjimečná není ani **krev na toaletním papíru**, nebo **v toaletě**. (Její větší množství může poukazovat na prasklý vnější hemoroid, ve kterém se udělala krevní sraženina, která si prorazila cestu kůží.)
+Jelikož je opakování matkou moudrosti, ještě jednou si připomeneme, jak se mohou hemeroidy projevit. Můžete pociťovat **bolest v okolí**, nebo **uvnitř análního otvoru**, která vám znemožní v klidu stát, nebo sedět. Také můžete pociťovat neobvyklé **svědění**. Výjimečná není ani **krev na toaletním papíru**, nebo **v toaletě**. (Její větší množství může poukazovat na prasklý vnější hemoroid, ve kterém se udělala krevní sraženina, která si prorazila cestu kůží.)
 
 ![jak poznat hemeroidy](/images/jak-poznat-hemoroidy.jpg)
 
@@ -91,7 +91,7 @@ Pokud vám smíme radit, v každém případě se nechce vyšetřit vaším prak
 
 Pokud se u vás hemoroidy vyskytly, je důležité vědět, jak s nimi správně pracovat. V první řadě musíte dbát na to, abyste se udržovali v dokonalé čistotě. Z toho důvodu si každý den dopřávejte **alespoň 10 minut sedacích koupelí v příjemně teplé (nikoliv vařící) vodě**. Také si můžete obstarat **volně prodejný přípravek proti hemoroidům**.
 
-Velkou roli ve zvládání hemoroidů hraje i **vyvážená strava**, která by měla být bohatá na vlákninu. (Je ale podmínkou, abyste dodržovali **dostatečný pitný režim**, jinak vám vláknina způsobí spíš zácpu.) Tímto způsobem by se měla změkčit a zpravidelnit stolice, kterou bude možné vytlačit bez použití extrémní námahy.
+Velkou roli ve zvládání hemeroidů hraje i **vyvážená strava**, která by měla být bohatá na vlákninu. (Je ale podmínkou, abyste dodržovali **dostatečný pitný režim**, jinak vám vláknina způsobí spíš zácpu.) Tímto způsobem by se měla změkčit a zpravidelnit stolice, kterou bude možné vytlačit bez použití extrémní námahy.
 
 **Také vyzkoušejte:**
 
