@@ -14,13 +14,13 @@ type = "post"
 
 V dnešní době existuje tolik **volně prodejných potravinových doplňků**, že nemáme absolutně šanci je všechny registrovat. Mnohdy tedy nemáme nejmenší tušení, že by nám některý z nich mohl pomoci při řešení našich aktuálních potíží.
 
-Co se týče zvládání **hemoroidů**, často saháme po nejrůznějších sedacích koupelích a mastičkách. Můžeme ale něco užívat i vnitřně? A může tento postup vůbec fungovat?
+Co se týče zvládání **hemeroidů**, často saháme po nejrůznějších sedacích koupelích a mastičkách. Můžeme ale něco užívat i vnitřně? A může tento postup vůbec fungovat?
 
 > **_Na to se mrkneme v dnešním článku, ve kterém se podíváme na doplněk stravy Advance Hemoxin._**
 
 ## ![hemoxin na hemeroidy](/images/hemoxin-na-hemeroidy.jpg)
 
-Advance Hemoxin na hemoroidy
+## Advance Hemoxin na hemeroidy
 
 Doplňky **Advance** jsou vám jistě dobře známé. Tento výrobce totiž produkuje doplňky téměř na vše, co vás napadne. Někdy to ale může vyvolat pochybovačné pozvednutí obočí. Což se může týkat právě již zmíněného **Hemoxinu**.
 
