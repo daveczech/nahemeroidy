@@ -18,10 +18,9 @@ Jak se to vezme. Někdo zkouší hemoroidy přelstít babskými radami a **teplo
 
 > **_Pokud o něm uvažujete, ale máte z něj tak trochu nahnáno, začtěte se do našeho podrobného průvodce, který vám poví, co a jak._**
 
-  
 ![koupel na hemeroidy](/images/koupel-na-hemeroidy.jpg)
 
-## Kdy podstoupit operaci hemoroidů
+## Kdy podstoupit operaci hemeroidů
 
 Většina potíží s hemoroidy **zmizí asi do dvou týdnů od počátku příznaků**. Tedy, za předpokladu, že se rozhodnete **pít dostatek tekutin a dodržovat dietu**, která povede k dlouhodobé změně vašeho životního stylu.
 
@@ -33,7 +32,6 @@ Lékař může pro operaci zvolit jeden z mnoha existujících postupů. Někter
 
 ### Klasická operace
 
-  
 Během klasické operace můžete být jak **v celkové**, tak **v lokální anestezii**. Během ní se **vyříznou velké hemoroidy**, na které nepůsobí méně invazivní léčba. Lékař ale může přistoupit i k tomu, že **tkáň hemoroidu vrátí zpátky na místo** a zajistí, aby se hemoroid vstřebal.
 
 ![operace hemeroidů](/images/klasicka-operace-hemeroidu.jpg)
@@ -42,13 +40,12 @@ Oba zákroky mohou vyžadovat krátkou hospitalizaci, nebo pozorování v nemocn
 
 ### Laserová operace
 
-Vzhledem k tomu, že předchozí řádky mohou slabší povahy docela vyděsit, čím dál víc lidí preferuje laserové odstranění hemoroidů.
+Vzhledem k tomu, že předchozí řádky mohou slabší povahy docela vyděsit, čím dál víc lidí preferuje laserové odstranění hemeroidů.
 
 Tento výkon obvykle nevyžaduje anestezii (jen při větších zákrocích) a **probíhá velmi rychle**. Tento úkon má za cíl normalizovat prokrvení a fungování problematické části konečníku. Vzhledem k rychlosti a nízké invazivnosti nemusí pacient jakkoliv měnit svůj zaběhnutý denní režim.
 
 ## Rekonvalescence
 
-  
 Jedním z nejdůležitějších faktorů úspěšné rekonvalescence je to, **abyste odvrátili zácpu**, která vyžaduje vyvinutí většího tlaku během vykonávání velké potřeby. V případě invazivního zákroku musíte dbát i na **tělesný klid**.
 
 ![rekonvalescence po operaci hemeroidů](/images/rekonvalescence-po-operaci-hemeroidu.jpg)
@@ -57,7 +54,7 @@ Poměrně normálním jevem během zotavování může být **inkontinence**, kt
 
 ## Strava po zákroku
 
-Jelikož strava a pitný režim s hemoroidy souvisí víc než byste čekali, podíváme se na to, co byste měli jíst a pít.
+Jelikož strava a pitný režim s hemeroidy souvisí víc než byste čekali, podíváme se na to, co byste měli jíst a pít.
 
 **Vyzkoušejte:**
 
@@ -69,5 +66,4 @@ Jelikož strava a pitný režim s hemoroidy souvisí víc než byste čekali, po
 * Bílou rýži a cereálie
 * Hodně uvařené maso
 
-  
 Pokud se vám zdá být tento jídelníček zvláštní, je nutné si uvědomit, že **jde o potraviny a nápoje, které nezanechávají skoro žádné zbytky**, které by bylo nutné vyloučit. Což je důležité, protože váš konečník bude mít šanci se po operaci rychleji uzdravit. (Také se tím minimalizuje riziko případné infekce, která by pocházela ze stolice.)
