@@ -20,13 +20,13 @@ Kromě toho, že tím trpí naše končetiny, na kterých se může začít proj
 
 ![co jsou to hemeroidy](/images/co-jsou-to-hemeroidy.jpg)
 
-# **Co jsou to hemoroidy**
+## Co jsou to hemoroidy
 
 Hemoroidy jsou **onemocnění žil**, které se nacházejí v namáhané oblasti okolo konečníku. Může jít o žíly uvnitř, ale i venku. (Z toho důvodu rozlišujeme, zda jedinec trpí **vnějšími hemoroidy**, nebo **vnitřními**.) Vnitřní postihují přímo konečník, vnější se soustřeďují okolo něj zvenčí.
 
 Projevy hemoroidů jsou pro člověka velmi nepříjemné a mohou ovlivňovat kvalitu jeho života. Naštěstí pro nás dnes existují způsoby, jak se jich dá zbavit.
 
-## **Vnější hemoroidy**
+### Vnější hemoroidy
 
 Jak už bylo řečeno, vnější (nebo také externí) hemoroidy se nacházejí v těsné blízkosti análního otvoru. Nejsou vidět, protože **jsou pod kůží**.
 
@@ -39,7 +39,7 @@ Jak už bylo řečeno, vnější (nebo také externí) hemoroidy se nacházejí 
 
 **![vnější a vnitřní hemoroidy](/images/vnejsi-hemoroidy.jpg)**
 
-## **Vnitřní hemoroidy**
+### Vnitřní hemoroidy
 
 Vnitřní hemoroidy jsou ty, které se udělají **uvnitř análního otvoru**. Z toho důvodu mohou způsobovat těžko definovatelné nepohodlí během různých denních úkonů.
 
@@ -50,7 +50,7 @@ Vnitřní hemoroidy jsou ty, které se udělají **uvnitř análního otvoru**. 
 * Krvácením
 * Inkontinencí
 
-# **Prasknutí hemoroidu**
+## Prasknutí hemoroidu
 
 Jelikož se hemoroid dělá tak, že povolí stěna cévy, která **vytvoří vak naplněný krví**, může se stát, že hemoroid v nějaké fázi své existence praskne. Jak se to dá ale poznat a co se s tím dá dělat?
 
@@ -66,7 +66,7 @@ V případě, že se vám něco podobného stane je důvod k tomu, abyste neprod
 
 ![prasknutí hemoroidů](/images/prasknuti-hemoroidu.jpg)
 
-# **Jak vznikají hemoroidy**
+## Jak vznikají hemoroidy
 
 K hemoroidům se člověk dopracuje mnoha různými způsoby. Z toho důvodu se s nimi může během svého života setkat skoro každý.
 
@@ -79,16 +79,15 @@ K hemoroidům se člověk dopracuje mnoha různými způsoby. Z toho důvodu se 
 
 V rámci tohoto zdravotního problému existují i konkrétní ohrožené skupiny. Patří mezi ně například **těhotné ženy**, které mohou trpět na zácpy a které musí silně tlačit během porodu. Dalším rizikovým faktorem je **sedavé zaměstnání**, nebo **pokročilý věk**.
 
-# **Jak poznat hemoroidy**
+## Jak poznat hemoroidy
 
-  
 Jelikož je opakování matkou moudrosti, ještě jednou si připomeneme, jak se mohou hemoroidy projevit. Můžete pociťovat **bolest v okolí**, nebo **uvnitř análního otvoru**, která vám znemožní v klidu stát, nebo sedět. Také můžete pociťovat neobvyklé **svědění**. Výjimečná není ani **krev na toaletním papíru**, nebo **v toaletě**. (Její větší množství může poukazovat na prasklý vnější hemoroid, ve kterém se udělala krevní sraženina, která si prorazila cestu kůží.)
 
 ![jak poznat hemeroidy](/images/jak-poznat-hemoroidy.jpg)
 
 Pokud vám smíme radit, v každém případě se nechce vyšetřit vaším praktickým lékařem. Mějte na paměti, že krev ve stolici může být symptomem mnohem vážnějších nemocí, jako je například **rakovina střev**.
 
-# **Řešení problémů**
+## Řešení problémů
 
 Pokud se u vás hemoroidy vyskytly, je důležité vědět, jak s nimi správně pracovat. V první řadě musíte dbát na to, abyste se udržovali v dokonalé čistotě. Z toho důvodu si každý den dopřávejte **alespoň 10 minut sedacích koupelí v příjemně teplé (nikoliv vařící) vodě**. Také si můžete obstarat **volně prodejný přípravek proti hemoroidům**.
 
