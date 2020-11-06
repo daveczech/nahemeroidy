@@ -9,7 +9,7 @@ title = "Sedací koupel: Účinná pomoc od hemeroidů"
 type = "post"
 
 +++
-**Když si vypěstujeme svým nezdravým životním stylem (nebo těhotenstvím) hemoroid, hledíme na to, abychom se ho co nejdříve zbavili. Jelikož ne vždy je nutné problém řešit operativně, podíváme se na to, jaké účinky může mít pravidelná sedací koupel.**
+**Když si vypěstujeme svým nezdravým životním stylem (**[**nebo těhotenstvím**](https://www.nahemeroidy.cz/proc-vznikaji-hemoroidy-tehotenstvi/)**) hemoroid, hledíme na to, abychom se ho co nejdříve zbavili. Jelikož ne vždy je nutné problém** [**řešit operativně**](https://www.nahemeroidy.cz/operace-hemoroidu-na-co-vse-se-pripravit/)**, podíváme se na to, jaké účinky může mít pravidelná sedací koupel.**
 
 Co je normální koupel všichni víme. Ale **sedací koupel**? Pokud na tento název narážíte poprvé, můžete mít problém okamžitě určit, jak se správně provádí a čemu může být za některých okolností prospěšná.
 
@@ -57,9 +57,9 @@ Ve všech případech je ale nutné sledovat, zda u vás tyto rostliny a složky
 
 ## Bylinky v boji s hemoroidy
 
-V první řadě je nutné říct, že většina bylinek, které se doporučují na hemoroidy, se užívá zvnějšku. Tedy, ve formě různých obkladů, mastí a koupelí.
+V první řadě je nutné říct, že většina bylinek, které se [doporučují na hemoroidy](https://www.nahemeroidy.cz/hemoroidy-vse-co-o-nich-potrebujete-vedet/), se užívá zvnějšku. Tedy, ve formě různých obkladů, mastí a koupelí.
 
-Žádná z nich nemá (snad až na **vilín**) prokazatelný vliv na léčbu hemeroidů. K jejich používání se přistupuje proto, že mají **uklidňující účinky**. A ty jsou v případě podráždění více než vítané.
+Žádná z nich nemá (snad až na **vilín**) prokazatelný vliv na [léčbu hemeroidů](https://www.nahemeroidy.cz/lecba-a-priznaky-hemoroidu/). K jejich používání se přistupuje proto, že mají **uklidňující účinky**. A ty jsou v případě podráždění více než vítané.
 
 **Naše babičky věřily:**
 
