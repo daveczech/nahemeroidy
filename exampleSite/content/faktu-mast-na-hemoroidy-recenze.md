@@ -6,7 +6,7 @@ date = 2020-11-05T23:00:00Z
 description = "Pokud hledáte rychlou úlevu od hemoroidů, mohly by vám vyhovovat mastičky. Vyplatí se investovat do mastičky Faktu? Přečtěte si naši recenzi"
 draft = true
 image = "/images/faktu-mast-recenze.jpg"
-title = "Faktu - mast na hemoroidy: Recenze"
+title = "Faktu - mast na hemeroidy: Recenze"
 type = "post"
 
 +++
@@ -18,7 +18,6 @@ Varianty existují pouze dvě. Buď vsadíte na **zklidňující mast**, nebo zv
 
 > **_Víte, co od ní máte čekat? Na to se podíváme v následujících několika odstavcích._**
 
-  
 ![faktu mast na hemeroidy](/images/mast-na-hemeroidy.jpg)
 
 ## Faktu mast na hemoroidy
@@ -50,7 +49,7 @@ I když se vám výše uvedený výpis asi příliš nezdá, může vám v lecč
 * Léčit hemoroidy a vyrážky
 * Pomoci s hojením trhlin v oblasti análního otvoru
 
-Mastička se používá tak, že se **2-3x denně aplikuje na problematické partie**. (V případě vnitřních hemoroidů lze použít speciální nástavec.)
+Mastička se používá tak, že se **2-3x denně aplikuje na problematické partie**. (V případě vnitřních hemeroidů lze použít speciální nástavec.)
 
 ![faktu účinky](/images/faktu-ucinky.jpg)
 
@@ -77,5 +76,4 @@ Jinak ale byli všichni veskrze spokojení a **výrobek by doporučili svým rod
 
 ## Shrnutí
 
-  
 Faktu je **oficiální léčebný přípravek**. To znamená, že sice nemá přírodní složení, ale opravdu vás zbaví nežádoucích problémů a příznaků. Rozhodně ale neuděláte nic špatného, když se o jejím nasazení nejprve poradíte s ošetřujícím lékařem.
