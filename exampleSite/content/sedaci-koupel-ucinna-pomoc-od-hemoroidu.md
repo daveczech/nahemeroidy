@@ -1,7 +1,7 @@
 +++
 author = ""
 bloky = []
-categories = []
+categories = ["Hemeroidy"]
 date = 2020-11-05T23:00:00Z
 description = "Když si vypěstujeme svým nezdravým životním stylem hemoroid, hledíme na to, abychom se ho co nejdříve zbavili. Pomoci může sedací koupel na hemeroidy."
 image = "/images/sedaci-koupel-na-hemeroidy.jpg"
