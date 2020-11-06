@@ -18,7 +18,8 @@ Co se týče zvládání **hemoroidů**, často saháme po nejrůznějších sed
 
 > **_Na to se mrkneme v dnešním článku, ve kterém se podíváme na doplněk stravy Advance Hemoxin._**
 
-## ![hemoxin na hemeroidy](/images/hemoxin-na-hemeroidy.jpg)  
+## ![hemoxin na hemeroidy](/images/hemoxin-na-hemeroidy.jpg)
+
 Advance Hemoxin na hemoroidy
 
 Doplňky **Advance** jsou vám jistě dobře známé. Tento výrobce totiž produkuje doplňky téměř na vše, co vás napadne. Někdy to ale může vyvolat pochybovačné pozvednutí obočí. Což se může týkat právě již zmíněného **Hemoxinu**.
@@ -70,5 +71,4 @@ Je ale potřeba dodat, že **drtivá většina recenzí byla na stránkách výr
 
 ## Shrnutí
 
-  
 Jelikož **Advance Hemoxin prodávají lékárny**, indikuje to skutečnost, že jde o ověřený doplněk stravy, jehož užívání je bezpečné. Na druhou stranu, nejsme si úplně jistí tím, zda byli všichni uživatelé opravdu tak spokojeni s výrobkem. V neposlední řadě **myslete na to, že se nejedná o oficiální léčivo, ale jen o doplněk stravy**. Může vám pomoci v rámci udržování dobrého zdravotního stavu, ale nedokáže léčit. Proto se o jeho používání nejprve poraďte se svým ošetřujícím lékařem, který zhodnotí, zda jde o krok správným směrem.
