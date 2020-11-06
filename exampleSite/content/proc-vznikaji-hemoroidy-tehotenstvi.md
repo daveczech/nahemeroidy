@@ -21,14 +21,14 @@ To ale není všechno. **Rostoucí dítě**, **nezdravé stravování** kvůli t
 
 ## Příčiny vzniku hemoroidů v těhotenství
 
-Hemeroidy se dělají těhotným ženám zcela běžně. Nejčastěji **ve třetím trimestru**, **během porodu a krátce po něm**. Stejně, jako u normálních hemoroidů je dělíme na hemoroidy vnitřní a na hemoroidy vnější. Příčiny jejich vzniku ale nemusí být stejné.
+[Hemeroidy se dělají těhotným ženám](https://www.nahemeroidy.cz/hemoroidy-vse-co-o-nich-potrebujete-vedet/) zcela běžně. Nejčastěji **ve třetím trimestru**, **během porodu a krátce po něm**. Stejně, jako u normálních hemoroidů je dělíme na hemoroidy vnitřní a na hemoroidy vnější. Příčiny jejich vzniku ale nemusí být stejné.
 
 **Má na nich podíl:**
 
 * Zvýšený objem krve v těle
 * Tlak dítěte na svaly a vnitřní orgány
 * Hormonální aktivita
-* Zácpa (na ní mají opět podíl hormony, nezdravá strava a rostoucí dítě)
+* Zácpa (na ní mají opět podíl hormony, [nezdravá strava](https://www.nahemeroidy.cz/dieta-a-spravna-strava-pri-hemoroidech/) a rostoucí dítě)
 
 V neposlední řadě, na vznik hemoroidů může mít vliv i porod. Zvlášť fáze, během které dochází k vypuzování dítěte z těla ven.
 
@@ -36,7 +36,7 @@ V mnoha případech těhotenské hemeroidy zmizí do několika týdnů od porodu
 
 ## Léčba
 
-V průběhu těhotenství není možné spoléhat na stejnou léčbu, jako ve chvílích, kdy těhotná nejste. Z toho důvodu je vhodnější nejprve vyzkoušet **méně invazivní metody**, které vám nemohou nijak ublížit. Teprve, když se situace zhorší je na místě spojit se s lékařem a řešit nasazení medikamentů.  
+V průběhu těhotenství není možné[ spoléhat na stejnou léčbu](https://www.nahemeroidy.cz/lecba-a-priznaky-hemoroidu/), jako ve chvílích, kdy těhotná nejste. Z toho důvodu je vhodnější nejprve vyzkoušet **méně invazivní metody**, které vám nemohou nijak ublížit. Teprve, když se situace zhorší je na místě spojit se s lékařem a řešit nasazení medikamentů.  
 ![léčba hemoroidů v těhotenství](/images/lecba-hemeroidu-v-tehotenstvi.jpg)
 
 **Vyzkoušet můžete:**
@@ -59,7 +59,7 @@ Jak už bylo řečeno, **neberte žádné léky, pokud o tom neví váš lékař
 
 ![cvičení hemeroidy](/images/cviceni-hemeroidy.jpg)
 
-Lékař vám může doporučit **užívání slabého projímadla**. Případně s vámi může probrat možný operativní zákrok po skončení těhotenství.
+Lékař vám může doporučit **užívání slabého projímadla**. Případně s vámi může probrat možný [operativní zákrok](https://www.nahemeroidy.cz/operace-hemoroidu-na-co-vse-se-pripravit/) po skončení těhotenství.
 
 ## Dbejte na prevenci
 
