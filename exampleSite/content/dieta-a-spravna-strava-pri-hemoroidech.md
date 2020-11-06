@@ -6,7 +6,7 @@ date = 2020-11-05T23:00:00Z
 description = "Hemoroidy jsou zdravotní problém, na který je nutné se dívat co nejvíce komplexně. Proto se podíváme na to, jak se při hemoroidech správně stravovat."
 draft = true
 image = "/images/dieta-pri-hemoroidech.jpg"
-title = "Dieta a správná strava při hemoroidech"
+title = "Dieta a správná strava při hemeroidech"
 type = "post"
 
 +++
@@ -14,7 +14,7 @@ type = "post"
 
 Stravování má velký dopad na kvalitu našeho života. Když si dopřáváme jen kalorická jídla bez valné nutriční hodnoty, která jsou plná éček, musíme očekávat, že se to odrazí na vzhledu naší figury. Oproti tomu, **zdravá strava** nám může pomoci udržet si štíhlou linii. Také z ní získáme vitamíny, stopové prvky a minerální látky, které naše tělo potřebuje pro své normální fungování a pro udržovaný vzhled. (Na těchto látkách závisí nejen kvalita vlasů, ale i nehtů a kůže.)
 
-Možná vás to překvapí, ale **správně zvolený jídelníček** potřebují i lidé, kteří se trápí s hemoroidy. Ty mohou být vyvolané zácpou, průjmem, ale i celou řadou jiných (a poměrně běžných) faktorů.
+Možná vás to překvapí, ale **správně zvolený jídelníček** potřebují i lidé, kteří se trápí s hemeroidy. Ty mohou být vyvolané zácpou, průjmem, ale i celou řadou jiných (a poměrně běžných) faktorů.
 
 > **_Abyste měli trochu lepší představu o tom, čemu byste měli začít dávat přednost a čemu se raději vyhýbat, budeme rádi, když budete pokračovat ve čtení._**
 
@@ -71,8 +71,8 @@ Jen výjimečně si dopřávejte i hodně **ostrá jídla**, **nápoje obsahují
 
 ![hemeroidy jídelníček](/images/hemeroidy-jidelnicek.jpg)
 
-## **Pomohou bylinky?**
+## Pomohou bylinky?
 
 Co se týče domácí léčby, řada lidí se spoléhá na přírodní metody. Ty v řadě případů zahrnují i použití bylinek. U hemoroidů to ale až tak úplně neplatí. (Zaprvé se nedají jen tak vyléčit, jen odstranit. A zadruhé nemáme informace o tom, že by existovaly bylinky, které by měly na jejich vyléčení vliv.)
 
-To ale neznamená, že musíte odejít úplně s prázdnou. Na podráždění vám může pomoci **čistý gel s aloe vera**. Ač neléčí hemoroidy, může přispět ke zklidnění problematické oblasti. Pacientům se často doporučuje i používání přípravků, které obsahují **vilín**. Naše babičky také nedaly dopustit na **jitrocel**, **heřmánek** a na **měsíček lékařský**.
+To ale neznamená, že musíte odejít úplně s prázdnou. Na podráždění vám může pomoci **čistý gel s aloe vera**. Ač neléčí hemeroidy, může přispět ke zklidnění problematické oblasti. Pacientům se často doporučuje i používání přípravků, které obsahují **vilín**. Naše babičky také nedaly dopustit na **jitrocel**, **heřmánek** a na **měsíček lékařský**.
