@@ -6,7 +6,7 @@ date = 2020-11-05T23:00:00Z
 description = "Když si vypěstujeme svým nezdravým životním stylem hemoroid, hledíme na to, abychom se ho co nejdříve zbavili. Pomoci může sedací koupel na hemeroidy."
 draft = true
 image = "/images/sedaci-koupel-na-hemeroidy.jpg"
-title = "Sedací koupel: Účinná pomoc od hemoroidů"
+title = "Sedací koupel: Účinná pomoc od hemeroidů"
 type = "post"
 
 +++
@@ -39,7 +39,6 @@ Nesmíme ale zapomínat ani na to, že pravidelná sedací koupel **napomáhá u
 
 Nejprve si povíme, jak se dělá nejzákladnější koupel. Teprve pak si povíme, jaké mohou být její alternativy.
 
-  
 Do vany, napusťte maximálně 10 cm vody. Ta by měla být **tak akorát teplá**. Nikoliv vařící. Toto doporučení se vyplatí dodržet, protože si díky němu ušetříte spoustu starostí s opařením, nebo se zhoršením příznaků, kvůli kterým si chcete ulevit.
 
 ![koupel hemoroidy](/images/sedaci-koupel.jpg)
@@ -61,7 +60,7 @@ Ve všech případech je ale nutné sledovat, zda u vás tyto rostliny a složky
 
 V první řadě je nutné říct, že většina bylinek, které se doporučují na hemoroidy, se užívá zvnějšku. Tedy, ve formě různých obkladů, mastí a koupelí.
 
-Žádná z nich nemá (snad až na **vilín**) prokazatelný vliv na léčbu hemoroidů. K jejich používání se přistupuje proto, že mají **uklidňující účinky**. A ty jsou v případě podráždění více než vítané.
+Žádná z nich nemá (snad až na **vilín**) prokazatelný vliv na léčbu hemeroidů. K jejich používání se přistupuje proto, že mají **uklidňující účinky**. A ty jsou v případě podráždění více než vítané.
 
 **Naše babičky věřily:**
 
