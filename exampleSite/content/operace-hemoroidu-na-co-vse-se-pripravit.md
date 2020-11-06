@@ -11,9 +11,9 @@ type = "post"
 +++
 **Nikdo z nás nechodí rád na operace. Někdy je to ale jediná cesta, jak se zbavit dlouhodobých obtíží. Například těch, které způsobují hemoroidy. Proto se dnes podíváme na to, jaké známe typy zákroků a zda je nutné jim nějak přizpůsobit jídelníček.**
 
-Hemoroidy jsou společenské tabu. Což je docela zvláštní, když uvážíme, kolik lidí na ně trpí. Takže všichni chodíme a tváříme se, že se vůbec nic závažného neděje. A u toho tiše spíláme na nepřízeň osudu. Opravdu z toho není cesta ven?
+[Hemoroidy jsou společenské tabu](https://www.nahemeroidy.cz/hemoroidy-vse-co-o-nich-potrebujete-vedet/). Což je docela zvláštní, když uvážíme, kolik lidí na ně trpí. Takže všichni chodíme a tváříme se, že se vůbec nic závažného neděje. A u toho tiše spíláme na nepřízeň osudu. Opravdu z toho není cesta ven?
 
-Jak se to vezme. Někdo zkouší hemoroidy přelstít babskými radami a **teplou koupelí**. Jiný na to jde od lesa a kupuje si **speciální přípravky**, které jsou volně prodejné v lékárně. A pak jsou tu odvážlivci, kteří vědí, že nemá smysl se zbytečně trápit a svěří se do rukou zkušeného lékaře. Který jim může doporučit i **operativní zákrok**.
+Jak se to vezme. Někdo zkouší hemoroidy přelstít babskými radami a [**teplou koupelí**](https://www.nahemeroidy.cz/sedaci-koupel-ucinna-pomoc-od-hemoroidu/). Jiný na to jde od lesa a kupuje si **speciální přípravky**, které jsou volně prodejné v lékárně. A pak jsou tu odvážlivci, kteří vědí, že nemá smysl se zbytečně trápit a svěří se do rukou zkušeného lékaře. Který jim může doporučit i **operativní zákrok**.
 
 > **_Pokud o něm uvažujete, ale máte z něj tak trochu nahnáno, začtěte se do našeho podrobného průvodce, který vám poví, co a jak._**
 
@@ -31,7 +31,7 @@ Lékař může pro operaci zvolit jeden z mnoha existujících postupů. Někter
 
 ### Klasická operace
 
-Během klasické operace můžete být jak **v celkové**, tak **v lokální anestezii**. Během ní se **vyříznou velké hemoroidy**, na které nepůsobí méně invazivní léčba. Lékař ale může přistoupit i k tomu, že **tkáň hemoroidu vrátí zpátky na místo** a zajistí, aby se hemoroid vstřebal.
+Během klasické operace můžete být jak **v celkové**, tak **v lokální anestezii**. Během ní se **vyříznou velké hemoroidy**, na které nepůsobí méně [invazivní léčba](https://www.nahemeroidy.cz/lecba-a-priznaky-hemoroidu/). Lékař ale může přistoupit i k tomu, že **tkáň hemoroidu vrátí zpátky na místo** a zajistí, aby se hemoroid vstřebal.
 
 ![operace hemeroidů](/images/klasicka-operace-hemeroidu.jpg)
 
@@ -53,7 +53,7 @@ Poměrně normálním jevem během zotavování může být **inkontinence**, kt
 
 ## Strava po zákroku
 
-Jelikož strava a pitný režim s hemeroidy souvisí víc než byste čekali, podíváme se na to, co byste měli jíst a pít.
+Jelikož [strava a pitný režim s hemeroidy souvisí](https://www.nahemeroidy.cz/dieta-a-spravna-strava-pri-hemoroidech/) víc než byste čekali, podíváme se na to, co byste měli jíst a pít.
 
 **Vyzkoušejte:**
 
