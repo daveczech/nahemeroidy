@@ -35,6 +35,7 @@ fields:
   hidden: false
   description: dssdfsdf
 pages:
+- exampleSite/content/advance-hemoxin-recenze.md
 - exampleSite/content/dieta-a-spravna-strava-pri-hemoroidech.md
 - exampleSite/content/hemoroidy-vse-co-o-nich-potrebujete-vedet.md
 - exampleSite/content/lecba-a-priznaky-hemoroidu.md
