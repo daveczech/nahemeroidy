@@ -6,7 +6,7 @@ date = 2020-11-05T23:00:00Z
 description = "Těhotenství je období, během kterého dochází k mnoha psychickým, ale i fyzickým změnám. Víte, jak řešit hemeroidy v těhotenství?"
 draft = true
 image = "/images/hemeroidy-v-tehotenstvi.jpg"
-title = "Proč vznikají hemoroidy těhotenství"
+title = "Proč vznikají hemeroidy těhotenství"
 type = "post"
 
 +++
@@ -22,7 +22,7 @@ To ale není všechno. **Rostoucí dítě**, **nezdravé stravování** kvůli t
 
 ## Příčiny vzniku hemoroidů v těhotenství
 
-Hemoroidy se dělají těhotným ženám zcela běžně. Nejčastěji **ve třetím trimestru**, **během porodu a krátce po něm**. Stejně, jako u normálních hemoroidů je dělíme na hemoroidy vnitřní a na hemoroidy vnější. Příčiny jejich vzniku ale nemusí být stejné.
+Hemeroidy se dělají těhotným ženám zcela běžně. Nejčastěji **ve třetím trimestru**, **během porodu a krátce po něm**. Stejně, jako u normálních hemoroidů je dělíme na hemoroidy vnitřní a na hemoroidy vnější. Příčiny jejich vzniku ale nemusí být stejné.
 
 **Má na nich podíl:**
 
@@ -33,11 +33,10 @@ Hemoroidy se dělají těhotným ženám zcela běžně. Nejčastěji **ve třet
 
 V neposlední řadě, na vznik hemoroidů může mít vliv i porod. Zvlášť fáze, během které dochází k vypuzování dítěte z těla ven.
 
-V mnoha případech těhotenské hemoroidy zmizí do několika týdnů od porodu. Především kvůli zmenšení objemu krve v těle ženy.
+V mnoha případech těhotenské hemeroidy zmizí do několika týdnů od porodu. Především kvůli zmenšení objemu krve v těle ženy.
 
 ## Léčba
 
-  
 V průběhu těhotenství není možné spoléhat na stejnou léčbu, jako ve chvílích, kdy těhotná nejste. Z toho důvodu je vhodnější nejprve vyzkoušet **méně invazivní metody**, které vám nemohou nijak ublížit. Teprve, když se situace zhorší je na místě spojit se s lékařem a řešit nasazení medikamentů.  
 ![léčba hemoroidů v těhotenství](/images/lecba-hemeroidu-v-tehotenstvi.jpg)
 
@@ -57,7 +56,6 @@ Také se snažte při pobytu na toaletě tolik netlačit.
 
 ### Návštěva lékaře
 
-  
 Jak už bylo řečeno, **neberte žádné léky, pokud o tom neví váš lékař**. (Diskuze může proběhnout i u **Kegelových cviků**, které nemusí vyhovovat ženám s příliš pevným pánevním dnem, nebo ženám, které mají rizikové těhotenství.)
 
 ![cvičení hemeroidy](/images/cviceni-hemeroidy.jpg)
