@@ -24,7 +24,7 @@ Co si ale budeme povídat. O tom, že vás trápí podobný problém, obvykle ta
 
 ## Příznaky hemoroidů
 
-Hemoroidy jsou zdravotní problém, který **postihuje oblast análního otvoru a jeho nejbližší okolí**. Stejně, jako všude jinde tudy procházejí žilky a cévy, které rozvádějí krev. Kvůli **velké námaze**, nebo **nezdravému životnímu stylu** však mohou otékat, nebo mohou tvořit “vaky”, které se plní krví, kvůli čemuž se mění v tvrdé bulky a mohou prasknout a krvácet. Hemeroidy rozdělujeme do dvou kategorií.
+[Hemoroidy jsou zdravotní problém](https://www.nahemeroidy.cz/hemoroidy-vse-co-o-nich-potrebujete-vedet/), který **postihuje oblast análního otvoru a jeho nejbližší okolí**. Stejně, jako všude jinde tudy procházejí žilky a cévy, které rozvádějí krev. Kvůli **velké námaze**, nebo **nezdravému životnímu stylu** však mohou otékat, nebo mohou tvořit “vaky”, které se plní krví, kvůli čemuž se mění v tvrdé bulky a mohou prasknout a krvácet. Hemeroidy rozdělujeme do dvou kategorií.
 
 ### Vnitřní
 
@@ -50,7 +50,7 @@ Hemoroidy se nemusí projevovat stále. To ale neznamená, že nemohou způsobov
 
 ### Léčba vnitřních hemeroidů
 
-Léčba vnitřních hemoroidů může probíhat ve spolupráci se zkušeným týmem lékařů. K jejich úplnému odstranění se totiž používají nejrůznější **operativní zákroky**. (Některé z nich jsou invazivní více, jiné méně.)
+Léčba vnitřních hemoroidů může probíhat ve spolupráci se zkušeným týmem lékařů. K jejich úplnému odstranění se totiž používají [nejrůznější **operativní zákroky**](https://www.nahemeroidy.cz/operace-hemoroidu-na-co-vse-se-pripravit/). (Některé z nich jsou invazivní více, jiné méně.)
 
 Jednou z metod je **omotání gumičky** okolo části hemeroidu, která znemožní přívod krve do problematické oblasti. Také se ale používá **píchání injekcí**, nebo **chirurgické odstranění hemoroidů**, během kterého je pacient v anestezii. (Jelikož se jedná o rychlý a nenáročný zákrok, pacient obvykle odchází domů ještě v ten stejný den.)
 
@@ -74,13 +74,13 @@ Jak už bylo řečeno o pár řádků výše, domácí léčba je tak trochu myl
 
 ### Sedací koupele
 
-Už jsme se o tom zmínili jednou, ale určitě je na místě to trochu více rozvést. Příznivý vliv na lepší zvládání hemoroidů mohou mít pravidelné sedací koupele v příjemně teplé (ale ne vařící) vodě. Mohou probíhat buď samostatně, nebo za přidání **epsomské soli**.
+Už jsme se o tom zmínili jednou, ale určitě je na místě to trochu více rozvést. Příznivý vliv na lepší zvládání hemoroidů mohou mít [pravidelné sedací koupele](https://www.nahemeroidy.cz/sedaci-koupel-ucinna-pomoc-od-hemoroidu/) v příjemně teplé (ale ne vařící) vodě. Mohou probíhat buď samostatně, nebo za přidání **epsomské soli**.
 
 Tento návyk vám pomůže očistit oblast konečníku a zklidnit podráždění. Jelikož zde hraje velký faktor očista, nejlepší pro vás bude, když se budete koupat **hned po vykonání velké potřeby**.
 
 ### Strava a bylinky
 
-I když nemáme hemoroidy spojené s používáním bylinek, pár z nich se na ně dá podle potřeb použít. Hodně se mluví o **aloe vera**, které má zklidňující účinky. (Není ale klinicky potvrzeno, že by mělo nějaký vliv na léčbu hemeroidů. Musí se navíc používat čistý gel bez příměsi, je nutné ho aplikovat jen zvenčí a také se musí nejprve otestovat, zda na něj nemáte alergii.) Také můžete vyzkoušet mycí přípravky a krémy, které obsahují **vilín**.
+I když nemáme hemoroidy spojené s používáním bylinek, pár z nich se na ně dá podle potřeb použít. Hodně se mluví o **aloe vera**, které má zklidňující účinky. (Není ale klinicky potvrzeno, že by mělo nějaký vliv na léčbu hemeroidů. Musí se navíc používat čistý gel bez příměsi, je nutné ho aplikovat jen zvenčí a také se musí nejprve otestovat, zda na něj nemáte alergii.) Také můžete vyzkoušet mycí [přípravky](https://www.nahemeroidy.cz/advance-hemoxin-recenze/) a [krémy](https://www.nahemeroidy.cz/faktu-mast-na-hemoroidy-recenze/), které obsahují **vilín**.
 
 Co se týče stravy, je důležité si dopřát hodně ovoce, zeleniny a luštěnin, které obsahují **vlákninu**. (Změkčí stolici, takže není nutné při vykonávání potřeby tolik tlačit.) Je ale důležité i **pít dostatek tekutin**.
 
@@ -88,6 +88,6 @@ Co se týče stravy, je důležité si dopřát hodně ovoce, zeleniny a luště
 
 ## Jak předejít jejich vzniku
 
-V první řadě se zaměřte na stravu, která je bohatá na vlákninu a dostatečně pijte. (Když se tak nestane, vláknina nemůže správně působit, čímž může zapříčinit zácpu, která vaše problémy s hemoroidy ještě zhorší.)
+V první řadě se [zaměřte na stravu](https://www.nahemeroidy.cz/dieta-a-spravna-strava-pri-hemoroidech/), která je bohatá na vlákninu a dostatečně pijte. (Když se tak nestane, vláknina nemůže správně působit, čímž může zapříčinit zácpu, která vaše problémy s hemoroidy ještě zhorší.)
 
 Velmi důležitý je i **pravidelný pohyb**, který vám pomůže udržet normální peristaltiku střev. Nehledě na to, že nebudete sedět, což je pro vás samo o sobě prospěšné. Také si dávejte velmi dobrý **pozor na používání projímadel**. I průjem může způsobit, nebo podráždit již existující hemoroid. V neposlední řadě **běžte vykonat svou potřebu ve chvíli, kdy ji cítíte**.
