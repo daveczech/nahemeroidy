@@ -1,7 +1,7 @@
 +++
 author = ""
 bloky = []
-categories = []
+categories = ["Hemeroidy"]
 date = 2021-01-24T23:00:00Z
 description = ""
 image = "/images/krev-ve-stolici.jpg"
