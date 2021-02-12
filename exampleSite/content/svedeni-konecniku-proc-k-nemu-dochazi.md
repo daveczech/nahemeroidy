@@ -4,7 +4,6 @@ bloky = []
 categories = []
 date = 2021-02-11T23:00:00Z
 description = "Svědění konečníku rozhodně není něco, čím by se kdokoliv z nás chlubil. Jak se dá co nejrychleji odstranit?"
-draft = true
 image = "/images/svedeni-konecniku.jpg"
 title = "Svědění konečníku: Proč k němu dochází?"
 type = "post"
