@@ -1,11 +1,20 @@
 +++
 author = ""
-bloky = []
 categories = ["Hemeroidy"]
 date = 2021-01-24T23:00:00Z
 description = "Když vykonáváme svou velkou potřebu, jsme zvyklí kontrolovat papírem, zda jsme dostatečně čistí. Někdy můžeme narazit na krev ve stolici."
 image = "/images/krev-ve-stolici.jpg"
 title = "Krev ve stolici: Nejčastější příčiny a léčba"
+type = "post"
+[[bloky]]
+author = ""
+bloky = []
+categories = []
+date = ""
+description = ""
+image = ""
+template = "post"
+title = ""
 type = "post"
 
 +++
