@@ -1,7 +1,7 @@
 +++
 author = ""
 bloky = []
-categories = []
+categories = ["Hemeroidy"]
 date = 2021-02-11T23:00:00Z
 description = "Svědění konečníku rozhodně není něco, čím by se kdokoliv z nás chlubil. Jak se dá co nejrychleji odstranit?"
 image = "/images/svedeni-konecniku.jpg"
