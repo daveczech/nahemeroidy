@@ -21,7 +21,7 @@ Což může vést k problémům s kázní a z toho plynoucích ztrát na platu (
 
 ## Jak poznat hemoroidy
 
-Hemoroidy jsou **nateklé žilky**, které se nacházejí v oblasti análního otvoru. Podle toho, jestli jsou uvnitř nebo vně je rozdělujeme na hemoroidy **vnitřní** a **vnější**. Jejich vznik je závislý například na tom, zda na toaletě intenzivně tlačíte. (Třeba kvůli průjmu, nebo chronické zácpě.)
+[Hemoroidy jsou **nateklé žilky**](https://www.nahemeroidy.cz/hemoroidy-vse-co-o-nich-potrebujete-vedet/), které se nacházejí v oblasti análního otvoru. Podle toho, jestli jsou uvnitř nebo vně je rozdělujeme na hemoroidy **vnitřní** a **vnější**. Jejich vznik je závislý například na tom, zda na toaletě intenzivně tlačíte. (Třeba kvůli průjmu, nebo chronické zácpě.)
 
 **Mezi jejich typické projevy patří:**
 
@@ -34,11 +34,10 @@ Hemoroidy jsou **nateklé žilky**, které se nacházejí v oblasti análního o
 
 V některých případech se může v hemoroidu udělat **krevní sraženina**. Ta následně prorazí kůži a způsobí masivní krvácení.
 
-Jelikož některé z výše popsaných jevů mohou mít odlišného původce, včetně **rakoviny**, je moudré se před zahájením léčby spojit se svým lékařem, který v případě podezření provede sérii důležitých vyšetření.
+Jelikož některé z výše popsaných jevů mohou mít odlišného původce, včetně **rakoviny**, je moudré se [před zahájením léčby](https://www.nahemeroidy.cz/lecba-a-priznaky-hemoroidu/) spojit se svým lékařem, který v případě podezření provede sérii důležitých vyšetření.
 
 ### Jak vypadají hemoroidy
 
-  
 Hemoroidy vznikají tak, že dojde ke změně dráhy žilek okolo, nebo uvnitř vašeho konečníku. V podstatě udělají něco jako **vypouklinu**, která **vytváří bulky**, které se plní krví. Což vede k tomu, že pociťujete bolest a zaznamenáváte určitý stupeň nepohodlí.
 
 ![](/images/jak-vypadaji-hemoroidy.jpg)
@@ -55,16 +54,16 @@ Problém, za který lze hemoroidy zaměnit, jsou taktéž **bradavice na intimn�
 
 ## Problémy řešte včas
 
-Přípravky na hemoroidy, ať už jde o krémy, nebo doplňky stravy, je neléčí. Pouze přinášení úlevu od jejich nepříjemných projevů, které by vás mohly během dne omezit, nebo zaskočit. Jediným opravdu účinným způsobem, který vás jich zbaví, je **operace**.
+Přípravky na hemoroidy, ať už jde o krémy, nebo doplňky stravy, je neléčí. Pouze přinášení úlevu od jejich nepříjemných projevů, které by vás mohly během dne omezit, nebo zaskočit. Jediným opravdu účinným způsobem, který vás [jich zbaví, je operace](https://www.nahemeroidy.cz/operace-hemoroidu-na-co-vse-se-pripravit/).
 
 To, jestli se pro ni rozhodnete záleží na tom, jak velké vám způsobují problémy. Pokud pouze mírné, zkuste **dlouhodobé užívání doplňků stravy na hemoroidy**, které jsou na přírodní bázi. Následně je můžete podpořit i změnou životního stylu.
 
 **Pomáhá:**
 
-* Sedací koupel s epsomskou solí
+* [Sedací koupel s epsomskou solí](https://www.nahemeroidy.cz/sedaci-koupel-ucinna-pomoc-od-hemoroidu/)
 * Studený obklad
 * Volnější oblečení z přírodních materiálů
 * Vilín, dubová kůra… (často se tyto ingredience přidávají do mastí a kosmetických přípravků na hemoroidy)
-* Víc pít a konzumovat stravu bohatou na vlákninu (díky čemuž předejdete zácpě, která vyžaduje úpornější tlačení)
+* Víc pít a [konzumovat stravu bohatou na vlákninu](https://www.nahemeroidy.cz/dieta-a-spravna-strava-pri-hemoroidech/) (díky čemuž předejdete zácpě, která vyžaduje úpornější tlačení)
 
 **Jakými způsoby bojujete proti hemoroidům vy?**
