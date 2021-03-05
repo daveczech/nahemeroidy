@@ -16,4 +16,4 @@ Hemoroidy nám dovedou připravit nejednu zapeklitou chvilku. Třeba, když cest
 
 Což může vést k problémům s kázní a z toho plynoucích ztrát na platu (třeba, když jsou součástí vašeho výdělku i bonusy), nebo k různým společenským faux pas.
 
-**_Abyste nežili v naprosté nevědomosti, povíme vám, jak u sebe hemoroidy poznáte, proč vznikají a zda je možné jejich symptomy zaměnit za nějaký jiný zdravotní problém._**
+> **Abyste nežili v naprosté nevědomosti, povíme vám, jak u sebe hemoroidy poznáte, proč vznikají a zda je možné jejich symptomy zaměnit za nějaký jiný zdravotní problém.**
