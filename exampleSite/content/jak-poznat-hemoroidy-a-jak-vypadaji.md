@@ -4,7 +4,6 @@ bloky = []
 categories = ["Hemeroidy"]
 date = 2021-03-11T23:00:00Z
 description = "Co dělat když netušíte, zda hemoroidy máte? Jak hemoroidy vypadají a jak je poznat? Na to se dnes zaměříme."
-draft = true
 image = "/images/jak-poznat-hemoroidy-1.jpg"
 title = "Jak poznat hemoroidy a jak vypadají?"
 type = "post"
