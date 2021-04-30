@@ -4,7 +4,6 @@ bloky = []
 categories = []
 date = 2021-04-29T22:00:00Z
 description = "Nabídneme vám babské rady na hemoroidy, včetně tipů, jak se dá vzniku hemoroidů předcházet."
-draft = true
 image = "/images/babske-rady-na-hemoroidy.jpg"
 title = "Babské rady na hemoroidy: Víme, co pomůže"
 type = "post"
